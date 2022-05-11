@@ -6,7 +6,7 @@ Implementation of the classic video game Snake in low level MIPS Assembly Langua
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See below for prerequisite libraries and notes on how to deploy the project on a live system.
 
-`git clone https://github.com/mahirahman/Snake`
+`git clone https://github.com/mahirahman/Snake.git`
 
 To get a feel for this game, try it out in QtSpim:
 
