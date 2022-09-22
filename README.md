@@ -35,6 +35,8 @@ To get a feel for this game, try it out in QtSpim:
 ...............
 ```
 
+![Image](thumbnail.webp)
+
 ## Notes
 
 The starting state of a game to the right, where you can see all the key parts of the game. Snake is played on a 15×15 grid. The snake is made up of a head (#), and a number of body segments (o), and can move around the grid.
