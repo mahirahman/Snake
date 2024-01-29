@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get a feel for this game, try it out in QtSpim:
 
-1. Open [QtSpim]([http://spimsimulator.sourceforge.net](https://sourceforge.net/projects/spimsimulator)) (Or your preferred MIPS emulator)
+1. Open [QtSpim](https://sourceforge.net/projects/spimsimulator) (Or your preferred MIPS emulator)
 2. Click 'File' on the top left
 3. Click 'Reinitialize and Load File' from the drop-down menu
 4. Find snake.s on your computer and open it
@@ -50,7 +50,7 @@ The game ends only when either the snake falls off one of the edges of the board
 ## Built With
 
 * [MIPS Assembly Language (MAL)](https://www.cse.unsw.edu.au/~cs1521/18s2/notes/C/notes.html) - Assembly Language
-* [QtSpim](http://spimsimulator.sourceforge.net) - MIPS Simulator
+* [QtSpim](https://sourceforge.net/projects/spimsimulator) - MIPS Simulator
 
 ## License
 
